@@ -1,0 +1,10 @@
+body {
+  font-family: verdana;
+  padding: 1rem;
+}
+.selected {
+  background-color: blue;
+}
+.selected a {
+  color: white;
+}

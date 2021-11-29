@@ -1,5 +1,6 @@
 //!default for our webpack
 import React from "react";
 import ReactDOM from "react-dom";
+import App from "./App";
 
-ReactDOM.render(<hr />, document.querySelector("#root"));
+ReactDOM.render(<App />, document.querySelector("#root"));
